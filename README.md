@@ -48,7 +48,6 @@ $installedApps = foreach ($path in $programPaths) {
 }
 $installedApps | Export-Csv -Path "$env:USERPROFILE\Desktop\app-list.csv" -NoTypeInformation
 ```
-````
 
 ---
 
