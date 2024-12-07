@@ -1,6 +1,6 @@
-Here's the full script with all the commands and instructions formatted so you can copy it directly into your README file:
 
-````markdown
+
+
 # Windows 11 Setup Automation Script
 
 This script automates the setup of a **Windows 11** machine. It installs applications, restores system settings, and applies the taskbar layout.
@@ -206,6 +206,3 @@ if (Test-Path $taskbarPath) {
 
 This script is open-source and available under the MIT License.
 
-```
-
-```
